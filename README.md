@@ -12,6 +12,7 @@ Web App: Deploy the model using a Python-based application.
 
 Folder Structure
 Bankruptcy_project/
+
 |
 |-- app.py                             # Deployment script
 |-- Bankrupt vs Solvent prediction.ipynb # Notebook for prediction workflow
